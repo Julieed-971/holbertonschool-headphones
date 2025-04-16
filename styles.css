@@ -16,12 +16,12 @@
 
   @font-face {
     font-family: 'Source Sans Pro Regular';
-    src: url(/source-sans-pro/SourceSansPro-Regular.otf);
+    src: url(./source-sans-pro/SourceSansPro-Regular.otf);
   }
 
   @font-face {
     font-family: 'Source Sans Pro Bold';
-    src: url(/source-sans-pro/SourceSansPro-Semibold.otf);
+    src: url(./source-sans-pro/SourceSansPro-Semibold.otf);
   }
 
   :root {
@@ -374,7 +374,7 @@
   }
 
   .hero-background {
-    background-image: url(/images/headphones_hero_1.jpg);
+    background-image: url(./images/headphones_hero_1.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
@@ -482,7 +482,7 @@
   /* Section OUR RESULTS 
   =============================== */
   .section-our-results {
-    background-image: url(/images/headphones_hero_2.jpg);
+    background-image: url(./images/headphones_hero_2.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
@@ -500,7 +500,7 @@
     font-size: var(--font-size-xx-large);
   }
   .section-our-results .card {
-    background-image: url(/images/pentagone.png);
+    background-image: url(./images/pentagone.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;
